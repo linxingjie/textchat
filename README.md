@@ -8,4 +8,5 @@
 
  https://github.com/ 你的用户名 / 你的项目名 / raw / 分支名 / 存放图片的文件夹 / 该文件夹下的图片
  
- https://github.com/linxingjie/textchat/main/1.png
+![Image text](https://github.com/linxingjie/textchat/blob/main/1.png)
+![Image text](https://github.com/linxingjie/textchat/blob/main/2.png)
