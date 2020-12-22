@@ -4,3 +4,8 @@
 ####server.js 服务端连接，对连接端发送的数据进行处理及挂载服务<br>
 ####package.js npm install相关的包文件<br>
 ####主要用的包文件有ws、bootstrap<br>
+
+
+ https://github.com/ 你的用户名 / 你的项目名 / raw / 分支名 / 存放图片的文件夹 / 该文件夹下的图片
+ 
+ https://github.com/linxingjie/textchat/1.png
